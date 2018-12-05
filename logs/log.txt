@@ -1,0 +1,93 @@
+17:45:36.023 [main] INFO  Docker.Models.Port - Port capacity: 100, boxes in port: 21
+17:45:36.037 [main] INFO  Docker.Runner.Runner - Ship{boxes=1, shipId=0}
+17:45:36.038 [main] INFO  Docker.Runner.Runner - Ship{boxes=2, shipId=1}
+17:45:36.039 [main] INFO  Docker.Runner.Runner - Ship{boxes=3, shipId=2}
+17:45:36.039 [main] INFO  Docker.Runner.Runner - Ship{boxes=4, shipId=3}
+17:45:36.040 [main] INFO  Docker.Runner.Runner - Ship{boxes=5, shipId=4}
+17:45:36.041 [Timer-0] INFO  Docker.Models.Servant - servant started
+17:45:36.042 [Timer-0] INFO  Docker.Models.Servant - servant ended
+17:45:36.060 [Thread-6] INFO  Docker.Models.Ship - 4 ship wants to unload 3 boxes and to load 5
+17:45:36.060 [Thread-3] INFO  Docker.Models.Ship - 1 ship wants to unload 0 boxes and to load 5
+17:45:36.060 [Thread-2] INFO  Docker.Models.Ship - 0 ship wants to unload 0 boxes
+17:45:36.060 [Thread-5] INFO  Docker.Models.Ship - 3 ship wants to unload 0 boxes and to load 2
+17:45:36.060 [Thread-4] INFO  Docker.Models.Ship - 2 ship wants to unload 2 boxes and to load 4
+17:45:36.061 [Thread-6] INFO  Docker.Models.Port - 0 berth become busy
+17:45:36.061 [Thread-4] INFO  Docker.Models.Port - 1 berth become busy
+17:45:36.061 [Thread-5] INFO  Docker.Models.Port - 2 berth become busy
+17:45:36.061 [Thread-2] INFO  Docker.Models.Port - 3 berth become busy
+17:45:37.042 [Timer-0] INFO  Docker.Models.Servant - servant started
+17:45:37.042 [Timer-0] INFO  Docker.Models.Servant - servant ended
+17:45:37.062 [Thread-6] INFO  Docker.Models.Port - 26 boxes in a port
+17:45:37.061 [Thread-5] INFO  Docker.Models.Port - 21 boxes in a port
+17:45:37.061 [Thread-2] INFO  Docker.Models.Port - 21 boxes in a port
+17:45:37.062 [Thread-4] INFO  Docker.Models.Port - 23 boxes in a port
+17:45:37.062 [Thread-6] INFO  Docker.Models.Port - 21 boxes in a port
+17:45:37.062 [Thread-2] INFO  Docker.Models.Port - 3 berth become opened
+17:45:37.062 [Thread-5] INFO  Docker.Models.Port - 19 boxes in a port
+17:45:37.062 [Thread-4] INFO  Docker.Models.Port - 15 boxes in a port
+17:45:37.062 [Thread-2] INFO  Docker.Models.Ship - 0ship has 1 boxes.
+end of run()
+17:45:37.062 [Thread-5] INFO  Docker.Models.Port - 2 berth become opened
+17:45:37.062 [Thread-5] INFO  Docker.Models.Ship - 3ship has 6 boxes.
+end of run()
+17:45:37.062 [Thread-6] INFO  Docker.Models.Port - 0 berth become opened
+17:45:37.062 [Thread-3] INFO  Docker.Models.Port - 0 berth become busy
+17:45:37.062 [Thread-6] INFO  Docker.Models.Ship - 4ship has 7 boxes.
+end of run()
+17:45:37.063 [Thread-4] INFO  Docker.Models.Port - 1 berth become opened
+17:45:37.063 [Thread-4] INFO  Docker.Models.Ship - 2ship has 5 boxes.
+end of run()
+17:45:38.043 [Timer-0] INFO  Docker.Models.Servant - servant started
+17:45:38.043 [Timer-0] INFO  Docker.Models.Servant - servant ended
+17:45:38.063 [Thread-3] INFO  Docker.Models.Port - 15 boxes in a port
+17:45:38.063 [Thread-3] INFO  Docker.Models.Port - 10 boxes in a port
+17:45:38.063 [Thread-3] INFO  Docker.Models.Port - 0 berth become opened
+17:45:38.063 [Thread-3] INFO  Docker.Models.Ship - 1ship has 7 boxes.
+end of run()
+17:45:38.063 [main] INFO  Docker.Runner.Runner - Servant stopped
+00:16:43.627 [main] INFO  Docker.Models.Port - Port capacity: 100, boxes in port: 52
+00:16:43.666 [main] INFO  Docker.Runner.Runner - Ship{boxes=1, shipId=0}
+00:16:43.666 [Timer-0] INFO  Docker.Models.Servant - servant started
+00:16:43.666 [Timer-0] INFO  Docker.Models.Servant - servant ended
+00:16:43.666 [main] INFO  Docker.Runner.Runner - Ship{boxes=2, shipId=1}
+00:16:43.666 [main] INFO  Docker.Runner.Runner - Ship{boxes=3, shipId=2}
+00:16:43.667 [main] INFO  Docker.Runner.Runner - Ship{boxes=4, shipId=3}
+00:16:43.667 [main] INFO  Docker.Runner.Runner - Ship{boxes=5, shipId=4}
+00:16:43.698 [Thread-3] INFO  Docker.Models.Ship - 1 ship wants to load 4 boxes
+00:16:43.699 [Thread-5] INFO  Docker.Models.Ship - 3 ship wants to unload 2 boxes
+00:16:43.699 [Thread-3] INFO  Docker.Models.Port - 0 berth become busy
+00:16:43.699 [Thread-2] INFO  Docker.Models.Ship - 0 ship wants to unload 0 boxes and to load 4
+00:16:43.699 [Thread-6] INFO  Docker.Models.Ship - 4 ship wants to unload 4 boxes and to load 2
+00:16:43.698 [Thread-4] INFO  Docker.Models.Ship - 2 ship wants to unload 1 boxes and to load 6
+00:16:43.699 [Thread-6] INFO  Docker.Models.Port - 1 berth become busy
+00:16:43.700 [Thread-5] INFO  Docker.Models.Port - 2 berth become busy
+00:16:43.700 [Thread-2] INFO  Docker.Models.Port - 3 berth become busy
+00:16:44.665 [Timer-0] INFO  Docker.Models.Servant - servant started
+00:16:44.665 [Timer-0] INFO  Docker.Models.Servant - servant ended
+00:16:44.708 [Thread-2] INFO  Docker.Models.Port - 52 boxes in a port
+00:16:44.708 [Thread-5] INFO  Docker.Models.Port - 54 boxes in a port
+00:16:44.708 [Thread-6] INFO  Docker.Models.Port - 58 boxes in a port
+00:16:44.708 [Thread-2] INFO  Docker.Models.Port - 50 boxes in a port
+00:16:44.708 [Thread-5] INFO  Docker.Models.Port - 2 berth become opened
+00:16:44.708 [Thread-6] INFO  Docker.Models.Port - 48 boxes in a port
+00:16:44.708 [Thread-6] INFO  Docker.Models.Port - 1 berth become opened
+00:16:44.708 [Thread-5] INFO  Docker.Models.Ship - 3ship has 2 boxes.
+end of run()
+00:16:44.708 [Thread-2] INFO  Docker.Models.Port - 3 berth become opened
+00:16:44.708 [Thread-6] INFO  Docker.Models.Ship - 4ship has 3 boxes.
+end of run()
+00:16:44.708 [Thread-4] INFO  Docker.Models.Port - 1 berth become busy
+00:16:44.708 [Thread-2] INFO  Docker.Models.Ship - 0ship has 5 boxes.
+end of run()
+00:16:44.709 [Thread-3] INFO  Docker.Models.Port - 54 boxes in a port
+00:16:44.709 [Thread-3] INFO  Docker.Models.Port - 0 berth become opened
+00:16:44.709 [Thread-3] INFO  Docker.Models.Ship - 1ship has 6 boxes.
+end of run()
+00:16:45.666 [Timer-0] INFO  Docker.Models.Servant - servant started
+00:16:45.666 [Timer-0] INFO  Docker.Models.Servant - servant ended
+00:16:45.709 [Thread-4] INFO  Docker.Models.Port - 49 boxes in a port
+00:16:45.709 [Thread-4] INFO  Docker.Models.Port - 43 boxes in a port
+00:16:45.709 [Thread-4] INFO  Docker.Models.Port - 1 berth become opened
+00:16:45.709 [Thread-4] INFO  Docker.Models.Ship - 2ship has 8 boxes.
+end of run()
+00:16:45.709 [main] INFO  Docker.Runner.Runner - Servant stopped
